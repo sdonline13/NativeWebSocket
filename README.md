@@ -17,7 +17,7 @@ This is the simplest and easiest WebSocket library for Unity you can find!
 
 ### Install via UPM (Unity Package Manager)
 1. 下載安裝 URL: ```https://github.com/endel/NativeWebSocket.git#upm```
-2. 接壓縮
+2. 解壓縮
 3. 打開 Unity 將 NativeWebSocket 資料夾放入 unity
  
 
