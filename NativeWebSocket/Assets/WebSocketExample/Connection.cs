@@ -46,7 +46,7 @@ public class Connection : MonoBehaviour
   void Update()
   {
     #if !UNITY_WEBGL || UNITY_EDITOR
-      websocket.DispatchMessageQueue();
+     
     #endif
   }
 
