@@ -105,7 +105,7 @@ public class Connection : MonoBehaviour
 
 # Demonstration
 
-**1.** Start the local WebSocket server:
+**1.** 開啟本地 WebSocket server:
 
 ```
 cd Server
